@@ -146,18 +146,20 @@ main{
 }
 #facebook-icon{
     margin-left: 5px;
-    margin-top: -2px;
+    margin-top: 3px;
 }
 #twitter-icon:hover{
     cursor: pointer;
 }
 #twitter-icon{
     margin-left: 4px;
+    margin-top: 4px;
 }
 #pinterest-icon:hover{
     cursor: pointer;
 }
 #pinterest-icon{
     margin-left: 3px;
-    margin-top: -2px;
+    margin-top: 3px;
+
 }
